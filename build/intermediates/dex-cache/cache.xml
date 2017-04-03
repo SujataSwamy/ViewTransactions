@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Applications/android studio projects/Assignment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66626f14fcb9e312e2ba0fe17719dfae25a5b8fc">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8a3faf346543b07ef2228758169a3c0401dd690d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_96bd4f6c0ceea00755133e2035211b4b6205f056/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_baedbb04f331b206f6f8aede01761053107eb8b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_1ef8d4471dbb61f92bb10042aac538b31a363907/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/a1d1573a5195e1e299d7887fc187acfc4b902aca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3b294e9651384fe0ebe3ea6462ea1f96f468ec7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/c4ced81cabd1721456a806e5735d8290749e95c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_423558dcd98766192309622813a8bfdc5238c9ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/da1dfdbbedbf548e00b1e1ee4a6c0bec04ea740e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb38f54b33d6332296bc5728fe4c3474c088bd0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/1a142d862af5f54d954cec154e26e3eafbe47a06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7116be64b327eaa12b081176c2a0cecd21fb67e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/52e6cd77d6dda4fa6f4631dc245dea3420aecfb1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b37bb8ece2ed277fd8abafba2de7ee7608f2974c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/41ca212b2854f45ba54faefeb4b61a2e7e80c5a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4966b0cf33ec1b82c13d7c2fe54e9c79936f0ffd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_8f64ba6ca135a9212f2a151117b7f8d8742b850a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/466b9ad101cc85fcb516dfe7b98d9069f3cb7972/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7cb151b95c8dc8038d061d821c1015cfd1ab439e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_ba05b60cded05cbe16ea6b25eec4f216e8028fee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0-beta2_8a3df258840560a5737c4bf3235c59dbb658a9da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/4269a945e51394519c39110ef7597c5581b24a42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea053fdc3d5d2d051dc35eff1c0d5a842d1b7323/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0-beta2_ce6170c6be15a4aa48e9936211d352b77973c35c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_b0aa39587fbf12c6de3d8ac59676fd90d19d3127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/de47f87e8f77b400fc2d18407427303ae17dfeb4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c61b1fb55bd3d83ca20dd4a493dc950fcd16a78c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/6f16a288ad98a8ab09f79ed949ce9f88e3e10a0b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98c2f6f2cfd7c8f7e85590b6b06766b159f14121/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/f2a97fbf1833d402ebac94db90921d2947790738/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9637445d890d3e137445fc9debed6f604557b8ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/ec564a3163eb1870fa8197869a28b579d7f713d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8880e134087b8233c8342a63bdbef629e86694e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/e7aab07a67546ec01834c3e48cfca2e501fb62ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c311355fa00d8c26b0696b8d51dc057a4e719e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/android studio projects/Assignment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e3fb3c12a9d1f08f89f8d42fc065e8f87293652f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sujata/.android/build-cache/1d3e06d44018c21597c709c328970216784b2637/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Applications/android studio projects/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b0e58c8283ac86f331415392ff40adf30845aca/classes.dex" />
+    </item>
+
+</items>

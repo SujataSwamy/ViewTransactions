@@ -1,0 +1,11 @@
+package com.example.assignment.restclient;
+
+/**
+ * Created by sujata on 02/04/17.
+ */
+
+public enum ErrorCodes {
+
+    INVALID_USER, UNKNOWN_ERROR,USER_LOGIN_REQ,NO_NETWORK, INVALID_STATUS_CODE, JSON_FORMAT_ERROR,INTERNAL_SERVER_ERROR, BAD_INPUT, TOKEN_REFESH_REACHED_MAX, RESOURCE_NOT_FOUND
+
+}

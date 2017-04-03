@@ -1,0 +1,22 @@
+﻿[
+  {
+    "id": "1",
+    "state": "Maharashtra"
+  },
+  {
+    "id": "2",
+     "state": "Delhi"
+  },
+  {
+    "id": "3",
+    "state": "Karnataka"
+  },
+  {
+    "id": "4",
+    "state": "Gujarat"
+  },
+  {
+    "id": "5",
+    "state": "Telangana"
+  }
+]

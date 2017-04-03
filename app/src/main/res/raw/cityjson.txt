@@ -1,0 +1,18 @@
+﻿[
+  {
+    "id": "1",
+    "name": "Mumbai"
+  },
+  {
+    "id": "2",
+    "name": "Thane"
+  },
+  {
+    "id": "3",
+    "name": "New Delhi"
+  },
+  {
+    "id": "4",
+    "name": "Delhi"
+  }
+]

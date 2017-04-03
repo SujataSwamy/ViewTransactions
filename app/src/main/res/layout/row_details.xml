@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp">
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/my_payment_card_view"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardCornerRadius="4dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/date_value_textview"
+                android:text="slkdfjdskljf"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/date_value_textview"
+                android:background="@drawable/bg_details"
+                android:layout_marginTop="10dp">
+
+                <LinearLayout
+                    android:id="@+id/transaction_linearlayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal"
+                    android:weightSum="2"
+                    >
+
+                    <TextView
+                        android:id="@+id/transactionIdTV"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:gravity="start|center_vertical"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="15dp"
+                        android:text="@string/transactionIdTv"/>
+
+                    <TextView
+                        android:id="@+id/transactionIdValue"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/amount_value"
+                        android:layout_weight="1"
+                        android:gravity="start|center_vertical"
+                        android:text="ksjf"/>
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/first_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_below="@id/transaction_linearlayout"
+                    android:background="@color/lighter_grey"></View>
+
+                <LinearLayout
+                    android:id="@+id/withdraw_or_deposit_linearlayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal"
+                    android:weightSum="2"
+                    android:layout_below="@id/first_view"
+                    >
+                    <TextView
+                        android:id="@+id/withdrawOrDepositTV"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="15dp"
+                        android:gravity="start|center_vertical"
+                        android:text=""/>
+
+                    <TextView
+                        android:id="@+id/withdrawOrDepositValue"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@drawable/amt_value_below_row"
+                        android:gravity="start|center_vertical"
+                        android:text="ksjf"/>
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/second_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_below="@id/withdraw_or_deposit_linearlayout"
+                    android:background="@color/lighter_grey"></View>
+
+                <LinearLayout
+                    android:id="@+id/ref_linearlayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal"
+                    android:weightSum="2"
+                    android:layout_below="@id/second_view"
+                    >
+                    <TextView
+                        android:id="@+id/refIdTV"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="15dp"
+                        android:gravity="start|center_vertical"
+                        android:text="@string/ref_id"/>
+
+                    <TextView
+                        android:id="@+id/refAmtValueTV"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@drawable/amt_value_below_row"
+                        android:gravity="start|center_vertical"
+                        android:text="ksjf"/>
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/third_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_below="@id/ref_linearlayout"
+                    android:background="@color/lighter_grey"></View>
+
+                <LinearLayout
+                    android:id="@+id/mobileNo_linearlayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal"
+                    android:weightSum="2"
+                    android:layout_below="@id/third_view"
+                    >
+                    <TextView
+                        android:id="@+id/mobileNoTV"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="15dp"
+                        android:gravity="start|center_vertical"
+                        android:text="Mobile No"/>
+
+                    <TextView
+                        android:id="@+id/mobileNoValueTV"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/amt_value_below_row"
+                        android:gravity="start|center_vertical"
+                        android:layout_weight="1"
+                        android:text="ksjf"/>
+                </LinearLayout>
+                <View
+                    android:id="@+id/fourth_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_below="@id/mobileNo_linearlayout"
+                    android:background="@color/lighter_grey"></View>
+                <LinearLayout
+                    android:id="@+id/card_view_linearlayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal"
+                    android:weightSum="2"
+                    android:layout_below="@id/fourth_view"
+                    >
+                    <TextView
+                        android:id="@+id/cardNoTV"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="15dp"
+                        android:gravity="start|center_vertical"
+                        android:text="Card No"/>
+
+                    <TextView
+                        android:id="@+id/cardNoValue"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:gravity="start|center_vertical"
+                        android:layout_weight="1"
+                        android:text="ksjf"/>
+                </LinearLayout>
+
+            </RelativeLayout>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>
